@@ -1,0 +1,136 @@
+[API Trapper      (1a5c:3b20)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (28a8:4f88)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (28a8:15ec)] ------------------------------------------------------------------------------------------
+[Network Analyzer (28a8:15ec)] Load Network Traffic Analyzers:
+[Network Analyzer (28a8:15ec)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (28a8:15ec)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (28a8:15ec)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (28a8:15ec)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (28a8:15ec)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (28a8:15ec)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (28a8:15ec)]     Analyzer Module: local_server (value=)
+[Network Analyzer (28a8:15ec)] ------------------------------------------------------------------------------------------
+[Network Analyzer (28a8:37fc)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Net An. Warning  (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (28a8:4f1c)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Network Analyzer (28a8:4f1c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (28a8:37fc)] "GET /webtours/"   
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Client -> Server @ : 288 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /webtours/header.html"   
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Client -> Server @ : 341 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Server -> Client : 1007 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Client -> Server @ : 352 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Server -> Client : 1025 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /webtours/images/hp_logo.png"   
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Client -> Server @ : 372 bytes (Service=HTTP)
+[Network Analyzer (28a8:4ac8)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Network Analyzer (28a8:4ac8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (28a8:4f1c)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Web Request      (28a8:37fc)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (28a8:37fc)]   (Sid:  2) Client -> Server @ : 393 bytes (Service=HTTP)
+[Network Analyzer (28a8:4f1c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (28a8:37fc)] "GET /WebTours/home.html"   
+[Network Analyzer (28a8:37fc)]   (Sid:  3) Client -> Server @ : 389 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  3) Server -> Client : 1660 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /webtours/images/webtours.png"   
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Client -> Server @ : 373 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  2) Server -> Client : 1756 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  2) Client -> Server @ : 404 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  2) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /favicon.ico"   
+[Network Analyzer (28a8:37fc)]   (Sid:  2) Client -> Server @ : 231 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Net An. Warning  (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (28a8:15ec)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (28a8:4ac8)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Network Analyzer (28a8:15ec)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Network Analyzer (28a8:4ac8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (28a8:15ec)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (28a8:15ec)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Network Analyzer (28a8:15ec)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (28a8:37fc)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (28a8:37fc)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (28a8:37fc)]   (Sid:  2) Connection Terminated (by Server)
+[Web Request      (28a8:37fc)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Client -> Server @ : 593 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Server -> Client : 863 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Client -> Server @ : 509 bytes (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Server -> Client : 1159 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Server -> Client : 1749 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Client -> Server @ : 533 bytes (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Client -> Server @ : 535 bytes (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  6) Client -> Server @ : 533 bytes (Service=HTTP)
+[Network Analyzer (28a8:4f1c)] Address lookup for 5CD934BYJK = 192.168.234.175
+[Network Analyzer (28a8:37fc)]   (Sid:  6) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  6) Client -> Server @ : 533 bytes (Service=HTTP)
+[Network Analyzer (28a8:4f1c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (28a8:37fc)]   (Sid:  6) Server -> Client : 1048 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Server -> Client : 1030 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Server -> Client : 843 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Client -> Server @ : 526 bytes (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Client -> Server @ : 527 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Server -> Client : 4520 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Server -> Client : 1749 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Client -> Server @ : 541 bytes (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/classes/"   
+[Network Analyzer (28a8:37fc)]   (Sid:  6) Client -> Server @ : 493 bytes (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Client -> Server @ : 539 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  6) Server -> Client : 434 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Client -> Server @ : 533 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/classes/"   
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Server -> Client : 434 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Client -> Server @ : 852 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Server -> Client : 2701 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Client -> Server @ : 746 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Server -> Client : 3002 bytes  (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (28a8:37fc)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (28a8:37fc)]   (Sid:  5) Connection Terminated (by Server)
+[Web Request      (28a8:37fc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Client -> Server @ : 910 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Server -> Client : 2868 bytes  (Service=HTTP)
+[Web Request      (28a8:37fc)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Client -> Server @ : 525 bytes (Service=HTTP)
+[Network Analyzer (28a8:37fc)]   (Sid:  7) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer (1a5c:27dc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1a5c:27dc)] Load Network Traffic Analyzers:
+[Network Analyzer (1a5c:27dc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1a5c:27dc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1a5c:27dc)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1a5c:27dc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1a5c:27dc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1a5c:27dc)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1a5c:27dc)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1a5c:27dc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1a5c:43bc)] Address lookup for 5CD934BYJK = 192.168.234.175

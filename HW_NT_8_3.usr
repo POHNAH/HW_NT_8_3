@@ -24,8 +24,9 @@ Description=
 ScriptLocale=ru-RU
 [Actions]
 vuser_init=vuser_init.c
-logic=logic.c
 createTicket=createTicket.c
+choiceCity=choiceCity.c
+choiceFlight=choiceFlight.c
 vuser_end=vuser_end.c
 [RunLogicFiles]
 Default Profile=default.usp
@@ -37,23 +38,27 @@ Default Profile=default.cfg
 globals.h=
 [Modified Actions]
 vuser_init=1
-logic=1
 createTicket=1
+choiceCity=1
+choiceFlight=1
 vuser_end=1
 [Recorded Actions]
 vuser_init=0
-logic=0
 createTicket=0
+choiceCity=0
+choiceFlight=0
 vuser_end=0
 [Replayed Actions]
 vuser_init=1
-logic=1
 createTicket=1
+choiceCity=0
+choiceFlight=0
 vuser_end=1
 [Interpreters]
 vuser_init=cci
-logic=cci
 createTicket=cci
+choiceCity=cci
+choiceFlight=cci
 vuser_end=cci
 [TransactionsOrder]
 Order=

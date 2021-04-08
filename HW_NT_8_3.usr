@@ -51,8 +51,8 @@ vuser_end=0
 [Replayed Actions]
 vuser_init=1
 createTicket=1
-choiceCity=0
-choiceFlight=0
+choiceCity=1
+choiceFlight=1
 vuser_end=1
 [Interpreters]
 vuser_init=cci

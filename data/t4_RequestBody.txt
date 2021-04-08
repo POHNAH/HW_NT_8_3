@@ -1,2 +1,3 @@
-"flightID=82307420-79286-SS&2=on&flightID=823126-1876-SS&flightID=823140817-23236-SS&.cgifields"
-"=1&.cgifields=3&.cgifields=2&removeFlights.x=47&removeFlights.y=15"
+"advanceDiscount=0&depart=Denver&departDate=04%2F10%2F2021&arrive=Paris&returnDate=04%2F11%2F20"
+"21&numPassengers=1&seatPref=None&seatType=First&.cgifields=roundtrip&.cgifields=seatType&.cgif"
+"ields=seatPref&findFlights.x=72&findFlights.y=4"

@@ -1,5 +1,4 @@
 ﻿<Properties>
-  <WatchEntry0 value="token" />
-  <WatchEntry1 value="paramName" />
-  <WatchEntry2 value="price" />
+  <WatchEntry0 value="paramName" />
+  <WatchEntry1 value="k" />
 </Properties>

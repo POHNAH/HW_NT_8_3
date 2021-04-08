@@ -1,18 +1,11 @@
-EventId=324
-RecordingNumber=3
+EventId=185
+RecordingNumber=1
 
 ActionInfo
-ActionName=checkAndDel
+ActionName=Action1
 ActionId=1
-ActionFileSize=165114
+ActionFileSize=248574
 ActionDeleted=0
 RecordingNumber=1
-EndActionInfo
-
-ActionName=Action1
-ActionId=2
-ActionFileSize=138679
-ActionDeleted=0
-RecordingNumber=3
 EndActionInfo
 

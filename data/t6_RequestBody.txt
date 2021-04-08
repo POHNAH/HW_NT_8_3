@@ -1,2 +1,4 @@
-"userSession=131028.020737141zHDQHfDpiVzzzzzHtAtDipfccQ&username=jojo&password=bean&JSFormSubmi"
-"t=off&login.x=0&login.y=0"
+"firstName=Jojo&lastName=Bean&address1=&address2=&pass1=Jojo+Bean&creditCard=&expDate=&oldCCOpt"
+"ion=&numPassengers=1&seatType=First&seatPref=None&outboundFlight=041%3B586%3B04%2F10%2F2021&ad"
+"vanceDiscount=0&returnFlight=&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=44&buyFlights.y="
+"6"

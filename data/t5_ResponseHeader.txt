@@ -1,11 +1,9 @@
 HTTP/1.1 200 OK
-Date: Sun, 04 Apr 2021 12:55:15 GMT
+Date: Thu, 08 Apr 2021 23:22:49 GMT
 Server: Apache/2.2.21 (Win32)
-Last-Modified: Mon, 27 May 2013 11:20:22 GMT
-ETag: "1100000005a8d1-16e-4ddb1559ac980"
-Accept-Ranges: bytes
-Content-Length: 566
-Keep-Alive: timeout=5, max=100
+Expires: Wed, 07 Apr 2021 23:22:49 GMT
+Keep-Alive: timeout=5, max=98
 Connection: Keep-Alive
-Content-Type: text/html
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
 

@@ -23,19 +23,34 @@
     <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="Watches.xml" Filter="2" />
     <FileEntry Name="seat.dat" Filter="2" />
+    <FileEntry Name="combined_HW_NT_8_3.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="140481876440.idx" Filter="1" />
+    <FileEntry Name="152247932440.idx" Filter="1" />
+    <FileEntry Name="195428288440.idx" Filter="1" />
+    <FileEntry Name="45958546440.idx" Filter="1" />
+    <FileEntry Name="6561461440.idx" Filter="1" />
+    <FileEntry Name="89147268440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="data.zip" Filter="1" />
     <FileEntry Name="date.dat" Filter="1" />
+    <FileEntry Name="HW_NT_8_3.c.pickle" Filter="1" />
+    <FileEntry Name="HW_NT_8_3.ci" Filter="1" />
     <FileEntry Name="HW_NT_8_3.prm.bak" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="type.dat" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />

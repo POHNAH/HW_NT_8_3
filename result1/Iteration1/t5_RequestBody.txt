@@ -1,2 +1,2 @@
-"outboundFlight=122%3B364%3B08%2F04%2F2021&returnFlight=211%3B343%3B16%2F04%2F2021&numPassenger"
-"s=1&advanceDiscount=0&seatType=Business&seatPref=Window&reserveFlights.x=3&reserveFlights.y=10"
+"depart=Portland&departDate=09%2F04%2F2021&arrive=Paris&returnDate=19%2F04%2F2021&numPassengers"
+"=1&roundtrip=on&seatPref=First%09&seatType=First&findFlights.x=72&findFlights.y=4"

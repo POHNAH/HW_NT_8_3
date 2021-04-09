@@ -1,0 +1,38 @@
+[
+    {
+        "actionName": "createTicket",
+        "steps": [
+            {
+                "stepId": "STEP252",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1618000335000
+            },
+            {
+                "stepId": "STEP253",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t4.inf",
+                "time": 1618000335358
+            },
+            {
+                "stepId": "STEP254",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1618000335648
+            },
+            {
+                "stepId": "STEP255",
+                "stepName": "Submit Form: reservations.pl_2",
+                "infFile": "t6.inf",
+                "time": 1618000335938
+            },
+            {
+                "stepId": "STEP256",
+                "stepName": "Submit Form: reservations.pl_3",
+                "infFile": "t7.inf",
+                "time": 1618000336230
+            }
+        ],
+        "transactions": []
+    }
+]

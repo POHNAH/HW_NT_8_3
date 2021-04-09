@@ -1,0 +1,2 @@
+"depart=London&departDate=09%2F04%2F2021&arrive=San+Francisco&returnDate=19%2F04%2F2021&numPass"
+"engers=1&roundtrip=on&seatPref=seatType&seatType=Coach&findFlights.x=72&findFlights.y=4"

@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "createTicket",
+        "steps": [
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1618000236151
+            }
+        ],
+        "transactions": []
+    }
+]

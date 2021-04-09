@@ -1,0 +1,68 @@
+[
+    {
+        "actionName": "createTicket",
+        "steps": [
+            {
+                "stepId": "STEP369",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1618000398718
+            },
+            {
+                "stepId": "STEP370",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t4.inf",
+                "time": 1618000399469
+            },
+            {
+                "stepId": "STEP371",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1618000399865
+            },
+            {
+                "stepId": "STEP372",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t6.inf",
+                "time": 1618000400247
+            },
+            {
+                "stepId": "STEP373",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t7.inf",
+                "time": 1618000400715
+            },
+            {
+                "stepId": "STEP374",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t8.inf",
+                "time": 1618000401108
+            },
+            {
+                "stepId": "STEP375",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t9.inf",
+                "time": 1618000401541
+            },
+            {
+                "stepId": "STEP376",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t10.inf",
+                "time": 1618000402170
+            },
+            {
+                "stepId": "STEP377",
+                "stepName": "Submit Form: reservations.pl_2",
+                "infFile": "t11.inf",
+                "time": 1618000402582
+            },
+            {
+                "stepId": "STEP378",
+                "stepName": "Submit Form: reservations.pl_3",
+                "infFile": "t12.inf",
+                "time": 1618000403289
+            }
+        ],
+        "transactions": []
+    }
+]

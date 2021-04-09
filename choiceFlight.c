@@ -64,7 +64,7 @@ int choiceFlight(int roundTrip, int indexTypeSeat, char *types[], char *city1, c
 		}
 		else {
 			i = rand()%k;
-			sprintf(paramName, "{outFlight_%d}", i + 1);
+			sprintf(paramName, "{outFlight_%d}", indexRightTickets[i]);
 			lr_param_sprintf("outF", lr_eval_string(paramName));
 			lr_output_message("Выбран рейс %s", lr_eval_string("{outF}"));
 		}
@@ -159,7 +159,7 @@ int choiceFlight(int roundTrip, int indexTypeSeat, char *types[], char *city1, c
 			return 1;
 		}
 		else {
-			i = 1 + rand()%k;
+			i = rand()%k;
 			sprintf(paramName, "{outFlight_%d}", indexRightTickets[i]);
 			lr_param_sprintf("outF", lr_eval_string(paramName));
 			lr_output_message("Выбран рейс %s", lr_eval_string("{outF}"));

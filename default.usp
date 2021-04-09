@@ -57,7 +57,7 @@ MercIniTreeSons="createTicket"
 Name="Run"
 RunLogicActionOrder="createTicket"
 RunLogicActionType="VuserRun"
-RunLogicNumOfIterations="1"
+RunLogicNumOfIterations="100"
 RunLogicObjectKind="Group"
 RunLogicRunMode="Sequential"
 [RunLogicRunRoot:createTicket]

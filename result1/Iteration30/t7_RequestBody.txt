@@ -1,0 +1,3 @@
+"depart=San+Francisco&departDate=09%2F04%2F2021&arrive=Zurich&returnDate=19%2F04%2F2021&numPass"
+"engers=1&roundtrip=%3COFF%3E&seatPref=Business%09&seatType=First&findFlights.x=72&findFlights."
+"y=4"

@@ -1,0 +1,74 @@
+[
+    {
+        "actionName": "createTicket",
+        "steps": [
+            {
+                "stepId": "STEP80",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1618000257341
+            },
+            {
+                "stepId": "STEP81",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t4.inf",
+                "time": 1618000257781
+            },
+            {
+                "stepId": "STEP82",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t5.inf",
+                "time": 1618000258184
+            },
+            {
+                "stepId": "STEP83",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t6.inf",
+                "time": 1618000258553
+            },
+            {
+                "stepId": "STEP84",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t7.inf",
+                "time": 1618000258884
+            },
+            {
+                "stepId": "STEP85",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t8.inf",
+                "time": 1618000259115
+            },
+            {
+                "stepId": "STEP86",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t9.inf",
+                "time": 1618000259343
+            },
+            {
+                "stepId": "STEP87",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t10.inf",
+                "time": 1618000259599
+            },
+            {
+                "stepId": "STEP88",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t11.inf",
+                "time": 1618000259787
+            },
+            {
+                "stepId": "STEP89",
+                "stepName": "Submit Form: reservations.pl_2",
+                "infFile": "t12.inf",
+                "time": 1618000259995
+            },
+            {
+                "stepId": "STEP90",
+                "stepName": "Submit Form: reservations.pl_3",
+                "infFile": "t13.inf",
+                "time": 1618000260224
+            }
+        ],
+        "transactions": []
+    }
+]
